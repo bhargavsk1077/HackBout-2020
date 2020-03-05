@@ -1,0 +1,7 @@
+__pycache__/
+.vscode
+.env
+firebase_testing.py
+*.swp
+pyfcm_testing.py
+.undodir/
