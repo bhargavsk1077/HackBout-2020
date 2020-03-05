@@ -1,0 +1,5 @@
+imgs/
+templates/map.html
+__pycache__
+.DS_Store
+firebase-adminsdk.json
